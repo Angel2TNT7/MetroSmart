@@ -11,13 +11,13 @@
       <!--  RevenueContribution2二号线各个站点对线路收入的贡献2饼状图-->
       <RevenueContribution2></RevenueContribution2>
     </div>
-<!--    <div class="flex-1 p-3 flex flex-col">-->
-<!--      &lt;!&ndash;  ConsumptionProportion不同消费金额次数占比饼状图&ndash;&gt;-->
-<!--      <ConsumptionProportion></ConsumptionProportion>-->
+    <div class="flex-1 p-3 flex flex-col">
+      <!--  ConsumptionProportion不同消费金额次数占比饼状图-->
+      <ConsumptionProportion></ConsumptionProportion>
 
-<!--      &lt;!&ndash;  PassengerFlow二号线各个站点的客流量占整条线的客流量饼状图&ndash;&gt;-->
-<!--      <PassengerFlow></PassengerFlow>-->
-<!--    </div>-->
+      <!--  PassengerFlow二号线各个站点的客流量占整条线的客流量饼状图-->
+      <PassengerFlow></PassengerFlow>
+    </div>
   </div>
 </template>
 
