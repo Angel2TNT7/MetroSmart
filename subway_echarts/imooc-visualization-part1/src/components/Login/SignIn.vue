@@ -1,8 +1,6 @@
 <!--登录-->
 <script setup>
-<div>
-
-</div>
+const test = ref()
 </script>
 
 <template>
