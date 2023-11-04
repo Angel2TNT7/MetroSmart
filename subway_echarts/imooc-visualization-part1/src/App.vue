@@ -7,10 +7,10 @@
       <!--  RevenueContribution1二号线各个站点对线路收入的贡献1沙漏-->
       <RevenueContribution1 class="flex-1 h-1/2 box-border pb-4"></RevenueContribution1>
     </div>
-<!--    <div class="w-1/3 mr-5 flex flex-xol">-->
-<!--      &lt;!&ndash;  RevenueContribution2二号线各个站点对线路收入的贡献2饼状图&ndash;&gt;-->
-<!--      <RevenueContribution2></RevenueContribution2>-->
-<!--    </div>-->
+    <div class="w-1/3 mr-5 flex flex-xol">
+      <!--  RevenueContribution2二号线各个站点对线路收入的贡献2饼状图-->
+      <RevenueContribution2></RevenueContribution2>
+    </div>
     <div class="flex-1 p-3 flex flex-col">
       <!--  ConsumptionProportion不同消费金额次数占比饼状图-->
       <ConsumptionProportion></ConsumptionProportion>
